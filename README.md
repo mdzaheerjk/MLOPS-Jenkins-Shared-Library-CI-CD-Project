@@ -5,3 +5,10 @@ This project showcases a professional MLOps workflow by centralizing automation 
 <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_2j2nwc2j2nwc2j2n_8WBmCuM.jpg" alt="Project Banner" width="100%" />
 
 </div>
+<div align="center">
+
+## 🏗️ Architecture Diagram
+
+<img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Architecture_i5COYIw.png" alt="Architecture Diagram" width="85%" />
+
+</div>
